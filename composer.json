@@ -1,5 +1,5 @@
 {
-  "name": "codeimpact/yii2-resque",
+  "name": "thrieu/yii2-resque",
   "description": "description_text",
   "license": "false",
   "type": "yii2-extension",
@@ -19,7 +19,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "codeimpact\\yii2resque\\": ""
+      "thrieu\\yii2resque\\": ""
     }
   }
 }
